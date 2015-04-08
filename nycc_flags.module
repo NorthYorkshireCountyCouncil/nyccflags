@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the nycc flags feature.
+ */
+
+include_once 'nycc_flags.features.inc';
